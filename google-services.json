@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623585970782",
+    "firebase_url": "https://halflajf-9d586.firebaseio.com",
+    "project_id": "halflajf-9d586",
+    "storage_bucket": "halflajf-9d586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623585970782:android:629d76e23b3cbdd5",
+        "android_client_info": {
+          "package_name": "com.halflajf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623585970782-t2a063hc0eekbrgrgk44t1f8rhnv87bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwg8TalbXQU9EX5aQNBcjrt4g8GXcjJ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623585970782-t2a063hc0eekbrgrgk44t1f8rhnv87bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
